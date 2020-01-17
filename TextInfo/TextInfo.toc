@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: TextInfo
+## Author: N3cr0
+## Version: 1.12.1
+## DefaultState: enabled
+
+TextInfo.lua
+TextInfo.xml
